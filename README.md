@@ -6,6 +6,8 @@
 使用官方的Line Messaging API實作。
 ### Flask
 使用flask建立後端app。
+### Ngrok
+利用Ngrok建立local端的伺服器
 ### TMDb
 使用The Movie Database提供的api來獲取即時的電影資料。
 
