@@ -25,49 +25,49 @@ pip install tmdbv3api
         輸入`搜尋`進入搜尋模式
         輸入`熱門清單`進入熱門清單模式
         
-        ![Minion](https://i.imgur.com/picOaTh.jpg=50%x)
+        ![Minion](https://i.imgur.com/picOaTh.jpg)
 
         
     - 搜尋模式
         點擊按鈕即可搜尋想要的項目
         
-        ![](https://i.imgur.com/WcITSzs.jpg =50%x)
+        ![](https://i.imgur.com/WcITSzs.jpg)
         
     - 輸入關鍵字
     
-        ![](https://i.imgur.com/ljAB7xj.jpg =50%x)
+        ![](https://i.imgur.com/ljAB7xj.jpg)
         
     - 顯示搜尋結果
 
-        ![](https://i.imgur.com/rnFVQEY.jpg =50%x)
+        ![](https://i.imgur.com/rnFVQEY.jpg)
         
     - 點擊想要查看的結果來獲得詳細資訊
 
-        ![](https://i.imgur.com/BYJ7ugy.jpg =50%x)
+        ![](https://i.imgur.com/BYJ7ugy.jpg)
         
     - 影集的搜尋結果
 
-        ![](https://i.imgur.com/scTSSD4.jpg =50%x)
+        ![](https://i.imgur.com/scTSSD4.jpg)
         
     - 演員的搜尋結果
 
-        ![](https://i.imgur.com/SLUN6DI.jpg =50%x)
+        ![](https://i.imgur.com/SLUN6DI.jpg)
         
     - 熱門清單模式(電影)
 
-        ![](https://i.imgur.com/V62lBNo.jpg =50%x)
+        ![](https://i.imgur.com/V62lBNo.jpg)
         
     - 熱門清單模式(影集)
 
-        ![](https://i.imgur.com/wqTe8Zb.jpg =50%x)
+        ![](https://i.imgur.com/wqTe8Zb.jpg)
         
     - 熱門清單模式(演員)
         
-        ![](https://i.imgur.com/XedUmE0.jpg =50%x)
+        ![](https://i.imgur.com/XedUmE0.jpg)
         
     - 隨時輸入menu回到主選單
     
-        ![](https://i.imgur.com/IWm7b1m.jpg =50%x)
+        ![](https://i.imgur.com/IWm7b1m.jpg)
 
 
 
