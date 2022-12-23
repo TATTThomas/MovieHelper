@@ -25,7 +25,7 @@ pip install tmdbv3api
         輸入`搜尋`進入搜尋模式
         輸入`熱門清單`進入熱門清單模式
         
-        ![](https://i.imgur.com/picOaTh.jpg=50%x)
+        ![Minion](https://i.imgur.com/picOaTh.jpg =50%x)
 
         
     - 搜尋模式
